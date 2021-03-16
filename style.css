@@ -1,0 +1,13 @@
+#home h2{
+    font-family: cursive;
+    font-weight: bold;
+    text-underline-position: below;
+    font-size: 50;
+}
+.container{
+    text-align: center;
+}
+#home img{
+    width: auto;
+    height: auto;
+}
