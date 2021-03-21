@@ -11,3 +11,9 @@
     width: auto;
     height: auto;
 }
+#marquee{
+    font-size: 30px;
+    font-family: cursive;
+    color: cyan;
+    font-weight: bold;
+}
